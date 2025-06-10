@@ -1,4 +1,4 @@
-public class Simple_Interest{
+class Simple_Interest{
     public double P,T,R,S_I;
 
     Simple_Interest(double P,double T,double R)
