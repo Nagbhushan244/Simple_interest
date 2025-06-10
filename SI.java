@@ -13,7 +13,7 @@
         System.out.println("Simple Interest:"+S_I);
     }
 }
- public class main{
+ public class SI{
     public static void main(String[] args) {
         Simple_Interest s = new Simple_Interest(1000, 2, 15.00);
         s.calculate_SI();
